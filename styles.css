@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
+body {
+    background-color: #6B4B3D;
+}
+
+header h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 550%;
+    background-color: #493329;
+    padding: 42px;
+    margin-bottom: -7px;
+    font-family: Cinzel;
+    margin-left: -30px;
+    margin-right: -30px;
+    font-weight: lighter;
+}
+
+nav h3 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 140%;
+    background-color: #493329;
+    padding: 20px;
+    font-family: Cinzel;
+    margin-bottom: 110px;
+    margin-left: -20px;
+    margin-right: -20px;
+    font-weight: lighter;
+}
+
+main h3 {
+    color: #FFFFFF;
+    font-size: 140%;
+    background-color: #493329;
+    font-family: Cinzel;
+    padding: 12px;
+}
+
+main {
+    width: 96%;
+    margin: auto;
+}
+
+main p {
+    color: #FFFFFF;
+    font-size: 135%;
+    background-color: #493329;
+    font-family: Cormorant;
+    padding: 10px;
+}
+
+footer p {
+    color: #FFFFFF;
+    background-color: #493329;
+    text-align: center;
+    font-family: Cormorant;
+    padding: 9px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: 40px;
+}
+
+main img {
+    background-color: #493329;
+    border: #493329;
+    border-style: solid;
+    border-width: 10px;
+}
