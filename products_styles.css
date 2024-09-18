@@ -28,7 +28,7 @@ nav {
     font-family: Cormorant;
     margin-top: 10px;
     margin-right: -30px;
-    margin-bottom: 15px;
+    margin-bottom: 45px;
 }
 
 nav a {
@@ -38,31 +38,23 @@ nav a {
     font-size: 23px;
 }
 
+main {
+    width: 90%;
+    margin: auto;
+}
+
 main h3 {
     color: #FFFFFF;
     font-size: 140%;
     background-color: #493329;
     font-family: Cinzel;
     padding: 12px;
-    margin-bottom: -13px;
-    margin-right: -35px;
-    margin-left: -40px;
-}
+    margin-right: -41px;
+    margin-bottom: -40px;
+    text-align: center;
+    border-radius: 200px;
+    margin-left: -30px;
 
-main {
-    width: 90%;
-    margin: auto;
-}
-
-main p {
-    color: #FFFFFF;
-    font-size: 135%;
-    background-color: #493329;
-    font-family: Cormorant;
-    padding: 10px;
-    margin-right: -65px;
-    margin-bottom: 35px;
-    margin-left: -37px;
 }
 
 footer p {
@@ -73,21 +65,9 @@ footer p {
     padding: 9px;
     margin-left: -20px;
     margin-right: -20px;
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 20px;
 }
-
-main img {
-    background-color: #493329;
-    border: #493329;
-    border-style: solid;
-    border-width: 10px;
-    margin-right: 763px;
-    width: 103%;
-    margin-left: -39px;
-
-}
-
 
 header img {
     width: 180px;
@@ -107,4 +87,78 @@ a:hover {
     transition: all 0.3s ease-in-out;
     transform: scale(1.6);
     cursor: pointer;
+}
+
+
+.Baci_Perugina {
+    background-image: url(Hazelnut_chocolates\ _crop_one.jpeg);
+    color: #FFFFFF;
+    font-size: 155%;
+    background-color: #493329;
+    font-family: Cormorant;
+    padding: 10px;
+    margin-right: -32px;
+    margin-bottom: 35px;
+    margin-left: -37px;
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    margin-top: 48px;
+    border-color: #493329;
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 200px;
+    
+    
+
+}
+
+main p {
+    color: #FFFFFF;
+    font-size: 155%;
+    font-family: Cinzel;
+    padding: 10px;
+    margin-right: 900px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 200px;
+    size: 300px;
+
+}
+
+.Ferrero_Rocher {
+    background-image: url(ferrero_rocher1.jpeg);
+    color: #FFFFFF;
+    font-size: 155%;
+    background-color: #493329;
+    font-family: Cormorant;
+    padding: 10px;
+    margin-right: -32px;
+    margin-bottom: 35px;
+    margin-left: -37px;
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    margin-top: 48px;
+    border-color: #493329;
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 200px;
+}
+
+.Vosges_Chocolat {
+    background-image: url(Dark_choc2.jpeg);
+    color: #FFFFFF;
+    font-size: 155%;
+    background-color: #493329;
+    font-family: Cormorant;
+    padding: 10px;
+    margin-right: -32px;
+    margin-bottom: 35px;
+    margin-left: -37px;
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    margin-top: 48px;
+    border-color: #493329;
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 200px;
 }
